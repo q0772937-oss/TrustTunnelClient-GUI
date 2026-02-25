@@ -5,6 +5,8 @@ I also want to thank the guys from AdGuard, they did a great job creating such a
 A link to their project https://github.com/TrustTunnel/TrustTunnelClient
 
 
+The application works simply, put everything in one folder and run vpn_gui.exe with administrator rights.
+
 
 ## 💖 Support the mini Project
 If you like this project and want to support development:
